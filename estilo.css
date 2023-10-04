@@ -1,0 +1,31 @@
+
+body{
+     background-color: #C178F5
+}
+
+.titulo{
+    color:#874954;
+    
+}
+.justificado{
+
+}
+h1,h2,h3{
+    text-align: center;    
+}
+.foto{
+    width: 50%;
+    height: 10%;
+    border-radius: 50%;
+    border: 5px solid black;
+    display: block;
+    margin: 25%;
+    margin-top: 10%;
+    margin-bottom:10% ;
+   
+}
+.texto{
+    text-align:center ;
+
+}
+    
